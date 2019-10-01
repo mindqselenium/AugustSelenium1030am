@@ -1,0 +1,3 @@
+2019-10-01 20:49:55,461 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-10-01 20:50:02,236 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-10-01 20:50:02,658 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
