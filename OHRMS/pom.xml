@@ -5,8 +5,7 @@
 
 	<groupId>ORANGEHRMS</groupId>
 	<artifactId>OHRMS</artifactId>
-	<version>0.0.2-OHRMS_BUILD</version>
-	<packaging>war</packaging>
+	<version>OHRMS_BUILD V-1.0</version>
 
 	<name>OHRMS</name>
 	<url>http://maven.apache.org</url>
